@@ -1,0 +1,35 @@
+{
+    "name": "vsn/int-seq",
+    "time": "2020-20-08",
+    "copyright": "Tyler R. Drury, All Rights Reserved",
+    "description": "VSN IntegerSequences PHP 5.6 archive",
+    "keywords": ["integer","sequences","prime","padovan","horadam","pell","lucas","fibonnaci"],
+    "homepage": "https://github.com/vigilance91/intSeq-phar56",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Tyler R. Drury",
+            "email": "that_canadianguy@hotmail.com",
+            "homepage": "https://vigilance91.github.io/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "vsn\\": "build/"
+        }
+    },
+    "funding": [
+        {
+            "type": "patreon",
+            "url": "https://www.patreon.com/vigilance"
+        },
+        {
+            "type": "other",
+            "url": "https://etherscan.io/address/0x20fc7e34f4acfa8faec8edf0546c57cd77d76bfe"
+        }
+    ]
+}

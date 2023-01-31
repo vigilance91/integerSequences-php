@@ -2,7 +2,6 @@
 Thumbs.db
 npm-debug.log
 .htaccess
-composer.json
 phar.php
 build.bat
 _build.php
