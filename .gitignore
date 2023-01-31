@@ -9,7 +9,6 @@ Doxyfile
 php.ini
 /bower_components
 /node_modules
-/vendor
 /_src
 /_tests
 /_output
